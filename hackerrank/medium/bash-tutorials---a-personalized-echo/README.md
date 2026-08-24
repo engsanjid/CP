@@ -1,0 +1,54 @@
+# A Personalized Echo
+
+![Difficulty](https://img.shields.io/badge/Difficulty-Medium-yellow)
+
+## Problem
+
+Write a Bash script which accepts $name$ as input and displays the greeting
+"Welcome (name)"
+
+**Input Format**
+
+There is one line of text, $name$.  
+
+**Constraints**
+
+ 
+
+**Output Format**
+
+One line: "Welcome (name)" (quotation marks excluded).  
+The evaluation will be case-sensitive.
+
+**Sample Input 0**  
+
+    Dan  
+    
+**Sample Output 0**  
+
+    Welcome Dan  
+    
+**Sample Input 1**  
+
+    Prashant
+
+**Sample Output 1**  
+
+    Welcome Prashant
+
+## Solution
+
+**Language:** Bash  
+**Runtime:** N/A  
+**Memory:** N/A  
+**Submitted:** 2026-08-24T07:46:03.207Z  
+
+```sh
+read -p "Enter name:" name
+echo "Welcome $name"
+
+```
+
+---
+
+[View on HackerRank](https://www.hackerrank.com/challenges/bash-tutorials---a-personalized-echo/problem)
