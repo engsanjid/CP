@@ -33,7 +33,7 @@ _There is no input._
 **Language:** Bash  
 **Runtime:** N/A  
 **Memory:** N/A  
-**Submitted:** 2026-08-24T07:38:25.399Z  
+**Submitted:** 2026-08-26T08:19:44.270Z  
 
 ```sh
 for((i=1;i<=100;i+=2))
