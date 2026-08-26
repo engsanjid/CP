@@ -25,7 +25,7 @@ The **CITY** table is described as follows:
 **Language:** SQL  
 **Runtime:** N/A  
 **Memory:** N/A  
-**Submitted:** 2026-08-24T07:59:44.619Z  
+**Submitted:** 2026-08-26T08:14:55.956Z  
 
 ```sql
 SELECT * FROM CITY WHERE COUNTRYCODE = 'USA' AND  POPULATION > 100000;
