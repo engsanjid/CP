@@ -41,7 +41,7 @@ The evaluation will be case-sensitive.
 **Language:** Bash  
 **Runtime:** N/A  
 **Memory:** N/A  
-**Submitted:** 2026-08-26T08:20:20.381Z  
+**Submitted:** 2026-08-26T08:21:32.998Z  
 
 ```sh
 read -p "Enter name:" name
