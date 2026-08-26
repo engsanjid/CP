@@ -29,7 +29,7 @@ One word: either "SCALENE" or "EQUILATERAL" or "ISOSCELES" (quotation marks excl
 **Language:** Bash  
 **Runtime:** N/A  
 **Memory:** N/A  
-**Submitted:** 2026-08-26T08:25:15.305Z  
+**Submitted:** 2026-08-26T08:26:19.065Z  
 
 ```sh
 read -p 'Enter 1st number' n1
