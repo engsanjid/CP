@@ -31,7 +31,7 @@ echo `YES` or `NO` to STDOUT.
 **Language:** Bash  
 **Runtime:** N/A  
 **Memory:** N/A  
-**Submitted:** 2026-08-24T07:43:16.436Z  
+**Submitted:** 2026-08-26T08:24:34.079Z  
 
 ```sh
 read -p 'Enter one character' ch
