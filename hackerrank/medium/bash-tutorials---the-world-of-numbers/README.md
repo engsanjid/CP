@@ -27,7 +27,7 @@ $Y \ne 0$
 **Language:** Bash  
 **Runtime:** N/A  
 **Memory:** N/A  
-**Submitted:** 2026-08-24T07:44:15.989Z  
+**Submitted:** 2026-08-26T08:23:27.086Z  
 
 ```sh
 #!/bin/bash
